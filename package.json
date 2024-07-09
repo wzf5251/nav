@@ -3,13 +3,13 @@
   "version": "8.4.0",
   "author": "xiejiahe",
   "bugs": {
-    "url": "https://github.com/xjh22222228/nav/issues"
+    "url": "https://github.com/wzf5251/nav/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xjh22222228/nav.git"
+    "url": "git+https://github.com/wzf5251/nav.git"
   },
-  "homepage": "https://github.com/xjh22222228/nav",
+  "homepage": "https://github.com/wzf5251/nav",
   "scripts": {
     "ng": "ng",
     "start": "npm run build-internal && ng serve --port=7001",
@@ -18,7 +18,7 @@
     "build-gh-pages": "npm run setup && ng build --base-href ./ --index src/index.html",
     "build": "npm run setup && ng build --index src/index.html",
     "watch": "ng build --watch --configuration development",
-    "update": "git pull && (git remote add upstream https://github.com/xjh22222228/nav.git || true) && git fetch upstream main && git merge upstream/main --allow-unrelated-histories --no-edit && git push"
+    "update": "git pull && (git remote add upstream https://github.com/wzf5251/nav.git || true) && git fetch upstream main && git merge upstream/main --allow-unrelated-histories --no-edit && git push"
   },
   "private": true,
   "dependencies": {
