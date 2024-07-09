@@ -1,5 +1,13 @@
 [
   {
+    "name": "Yandex",
+    "url": "https://yandex.com/?s=",
+    "icon": "",
+    "placeholder": "",
+    "blocked": false,
+    "isInner": false
+  },
+  {
     "name": "站内",
     "icon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav-web@image/logo.png",
     "placeholder": "站内搜索",
