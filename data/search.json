@@ -1,8 +1,8 @@
 [
   {
     "name": "Yandex",
-    "url": "https://yandex.com/?s=",
-    "icon": "",
+    "url": "https://yandex.com/search?text=",
+    "icon": "https://cdn.jsdelivr.net/gh/wzf5251/nav@image/nav-1720519484297-_.._logo_font20220703_uugai.com-h5942-16568203427608.png",
     "placeholder": "",
     "blocked": false,
     "isInner": false
